@@ -1,0 +1,1 @@
+First open the vaishnavi_tk_calculter file which is inside assigment6 folder. then run the code. After running the calculater window will open, you can easily use the calculater like any other calculater.
